@@ -3,7 +3,7 @@ Desafio realizado para o Bootcamp Data Women Engineers 2022
 
 ### Descrição
 
-1. Criar um banco de dados chamado desafio (localmente), com as tabelas, conforme diagrama de dados da [figura-1](./Exercicio-01/figura-01.jpg). Os scripts devem ser criados no Notebook.
+1. Criar um banco de dados chamado desafio (localmente), com as tabelas, conforme diagrama de dados da [figura-1](DWE2022/Exercicio_01/figura-01.jpg). Os scripts devem ser criados no Notebook.
 2. Restaurar o arquivo treino.bak, para resolver as questões:
 - Listar todos os clientes com seus nomes e com suas respectivas cidades e estados.
 - Listar o código do produto, descrição do produto e a descrição das categorias dos produtos que tenham o valor unitário na faixa de R$ 10,00 a R$ 1500,00.
