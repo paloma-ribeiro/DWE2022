@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Desafio_aluna28", "Desafio_aluna28.dtproj", "{7AE4430A-FDA1-4EC9-B33B-F7D4BC775611}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AE4430A-FDA1-4EC9-B33B-F7D4BC775611}.Development|Default.ActiveCfg = Development
+		{7AE4430A-FDA1-4EC9-B33B-F7D4BC775611}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {656CEBBE-F32A-4A6A-A103-DC2F35698223}
+	EndGlobalSection
+EndGlobal
